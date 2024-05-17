@@ -19,8 +19,8 @@ import seaborn as sns
 ## Usage
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/sentiment-analysis-movie-reviews.git
-cd sentiment-analysis-movie-reviews
+git clone https://github.com/guccigauth/AISCSentimentAnalysis.git
+cd AISCSentimentAnalysis
 ```
 2. Run the Jupyter Notebook:
 ```
